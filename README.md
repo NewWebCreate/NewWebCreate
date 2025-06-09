@@ -1,4 +1,4 @@
-## Hi，my name is New Web Create 👋
+## Hi，This is <span style"color:blue">New Web Create<> 👋
 
   <!-- dynamic typing effect 动态打字效果 -->
   
