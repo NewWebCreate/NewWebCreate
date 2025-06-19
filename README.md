@@ -55,7 +55,7 @@
 
 ![仓库状态统计](https://github-readme-stats.vercel.app/api?username=Newwebcreate&show_icons=true&theme=transparent)
 
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Newwebcreate&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
