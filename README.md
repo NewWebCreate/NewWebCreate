@@ -74,7 +74,7 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
-<img width="200%" src="https://camo.githubusercontent.com/0a7e4164afa0f8d9d52ef27ecc5aef5dc22d1738fd29dd13995c59aa7a251d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6769746875626769662e676966" />
+<img width="30%" src="https://camo.githubusercontent.com/0a7e4164afa0f8d9d52ef27ecc5aef5dc22d1738fd29dd13995c59aa7a251d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f6769746875626769662e676966" />
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
