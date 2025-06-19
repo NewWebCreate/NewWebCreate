@@ -1,5 +1,8 @@
 ## Hi，This is New Web Create👋
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=念网创&fontSize=90&fontAlign=50&fontAlignY=30&desc=热爱每一个热爱生活的你&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
+
   <!-- dynamic typing effect 动态打字效果 -->
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);念网创祝您今天过的愉快!&center=true&size=27)](https://wunian.xyz)
