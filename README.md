@@ -1,4 +1,3 @@
-## Hi，This is New Web Create👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=念网创&fontSize=90&fontAlign=50&fontAlignY=30&desc=热爱每一个热爱生活的你&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
