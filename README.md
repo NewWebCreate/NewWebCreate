@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=600&height=150&lines=这是一个动态打字效果;它会自动换行;你可以根据需要调整文本内容，让字体看起来更加高级，提高用户的体验。&center=true&size=36&color=%23FF0000)](https://wunian.xyz)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=800&height=100&lines=这是第一组文字，它会自动换行，直到全部显示完成。&center=true&size=24&color=%23FF0000&multiline=true)](https://wunian.xyz)
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=800&height=100&lines=这是第二组文字，它也会自动换行，直到全部显示完成。&center=true&size=24&color=%23FF0000&multiline=true)](https://wunian.xyz)
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=800&height=100&lines=这是第三组文字，它同样会自动换行，直到全部显示完成。&center=true&size=24&color=%23FF0000&multiline=true)](https://wunian.xyz)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=念网创&fontSize=90&fontAlign=50&fontAlignY=30&desc=热爱每一个热爱生活的你&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
