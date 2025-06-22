@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&width=800&height=200&lines=这是一个动态打字效果;它会自动换行;你可以根据需要调整文本内容，让字体看起来更加高级，提高用户的体验。&center=true&size=34&color=%23FF0000&multiline=true&repeat=false)](https://wunian.xyz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&width=80&height=200&lines=这是一个动态打字效果;它会自动换行;你可以根据需要调整文本内容，让字体看起来更加高级，提高用户的体验。&center=true&size=34&color=%23FF0000&multiline=true&repeat=false)](https://wunian.xyz)
 
 
 
