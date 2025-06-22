@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&width=800&height=200&lines=这是一个动态打字效果，它会自动换行;这是一个动态打字效果，它会自;这是一个动态打字效果，它;这是一个动态打字效果;这是一个动态打字;这是一个动态;这是一个;这是;这;&left=true&size=38&color=%23FF0000&multiline=true&repeat=true)](https://wunian.xyz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&width=800&height=800&lines=这是一个动态打字效果，它会自动换行;这是一个动态打字效果，它会自;这是一个动态打字效果，它;这是一个动态打字效果;这是一个动态打字;这是一个动态;这是一个;这是;这;&left=true&size=38&color=%23FF0000&multiline=true&repeat=true)](https://wunian.xyz)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=念网创&fontSize=90&fontAlign=50&fontAlignY=30&desc=热爱每一个热爱生活的你&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
