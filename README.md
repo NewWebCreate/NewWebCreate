@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=600&height=150&lines=这是一个动态打字效果;它会自动换行;你可以根据需要调整文本内容<br>你可以根据需要调整文本内容你可以根据需要调整文本内容你可以根据需要调整文本内容&center=true&size=36&color=%23FF0000)](https://wunian.xyz)
 
 
 
