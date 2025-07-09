@@ -9,8 +9,6 @@
 
 
 <div>
-
-    <a href="https://mp.weixin.qq.com/s/9Wgg9B79zcSPWto3F_mfcg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://mp.weixin.qq.com/s/9Wgg9B79zcSPWto3F_mfcg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/3546750077897150"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4"/></a>&emsp;
 
