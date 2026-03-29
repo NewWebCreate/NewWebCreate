@@ -5,7 +5,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);念网创祝您天天开心呀!&center=true&size=27)](https://wunian.xyz)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);念网创祝您天天开心呀!&center=true&size=27)](https://wunian.fun)
 
 
 <div>
@@ -18,7 +18,7 @@
 <div align="center" >
 
 <!-- img 图片 -->
-<img src="https://wunian.netlify.app/img/tx.png" width="250" height="250" />
+<img src="https://q2.qlogo.cn/headimg_dl?dst_uin=3866582662&spec=100" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 
