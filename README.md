@@ -9,6 +9,7 @@
 
 ## Contact method(联系方式) ##
 <div align="center">
+
     <a href="https://mp.weixin.qq.com/s/9Wgg9B79zcSPWto3F_mfcg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/3546750077897150"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4"/></a>&emsp;
     <a href="https://wunian.xyz"><img src="https://img.shields.io/badge/云澜止息-主阵地-ff8c00"/></a>&emsp;
@@ -22,7 +23,6 @@
 <!--  skill badge 技能徽章 -->
 
 ## skill badge(技能徽章) ##
-    
 <div align="center" >
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -31,10 +31,9 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-
 </div>
 
-#### Operating system and applications(操作系统和应用程序) ####
+### Operating system and applications(操作系统和应用程序) ###
 <div align="center">
 
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
