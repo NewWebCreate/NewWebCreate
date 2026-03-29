@@ -42,10 +42,6 @@
 ![剪映](https://img.shields.io/badge/剪映┃专业版-181717?&logoColor=fff&style=flat)
 
 
-## 数据统计
-
-![仓库状态统计](https://github-readme-stats.vercel.app/api?username=Newwebcreate&show_icons=true&theme=transparent)
-
 
 
 <!-- programming tool icon 编程工具图标 -->
