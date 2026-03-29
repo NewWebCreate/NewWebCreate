@@ -15,8 +15,6 @@
 <a href="https://i.wunian.fun"><img src="https://img.shields.io/badge/HOME-主页-2f2f2f"/></a>&emsp;
 
 </div>
-    
-<div align="center" >
 
 <!-- img 图片 -->
 <img src="https://q2.qlogo.cn/headimg_dl?dst_uin=3866582662&spec=100" width="50" height="50" />
@@ -24,6 +22,8 @@
 <!--  skill badge 技能徽章 -->
 
 ## skill badge(技能徽章) ##
+    
+<div align="center" >
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
