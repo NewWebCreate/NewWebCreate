@@ -34,7 +34,7 @@
 
 </div>
 
-##### Operating system and applications(操作系统和应用程序) #####
+#### Operating system and applications(操作系统和应用程序) ####
 <div align="center">
 
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
