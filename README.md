@@ -17,7 +17,7 @@
 </div>
 
 <!-- img 图片 -->
-<p align="center"><img src="https://q2.qlogo.cn/headimg_dl?dst_uin=3866582662&spec=100" width="50" height="50" /></p>
+<br><p align="center"><img src="https://q2.qlogo.cn/headimg_dl?dst_uin=3866582662&spec=100" width="50" height="50" /></p>
 
 <!--  skill badge 技能徽章 -->
 
