@@ -11,13 +11,13 @@
 <div align="center">
     <a href="https://mp.weixin.qq.com/s/9Wgg9B79zcSPWto3F_mfcg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/3546750077897150"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4"/></a>&emsp;
-    <a href="https://wunian.xyz"><img src="https://img.shields.io/badge/云澜止息-主阵地-ff8c00"/></a>&emsp;
+    <a href="https://blog.wunian.fun"><img src="https://img.shields.io/badge/云澜止息-主阵地-ff8c00"/></a>&emsp;
 <a href="https://i.wunian.fun"><img src="https://img.shields.io/badge/HOME-主页-2f2f2f"/></a>&emsp;
 
 </div>
 
 <!-- img 图片 -->
-<img src="https://q2.qlogo.cn/headimg_dl?dst_uin=3866582662&spec=100" width="50" height="50" />
+<center><img src="https://q2.qlogo.cn/headimg_dl?dst_uin=3866582662&spec=100" width="50" height="50" /></center>
 
 <!--  skill badge 技能徽章 -->
 
